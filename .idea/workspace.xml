@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da6a2734-c790-4c7a-95dc-a39de9134d30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-1m-i1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-1m-i1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-1m-i2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-1m-i2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-1m-i5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-1m-i5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-1m-i6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-1m-i6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-5m-i1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-5m-i1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-5m-i2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-5m-i2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res-un-i1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res-un-i1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23BvUupIjnAE0T4MrdwODECEcAu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HMO-Projekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da6a2734-c790-4c7a-95dc-a39de9134d30" name="Default Changelist" comment="" />
+      <created>1641220314200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641220314200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1534" height="440" key="DebuggerActiveHint" timestamp="1641761528083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1534" height="440" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1641761528083" />
+    <state width="1500" height="282" key="GridCell.Tab.0.bottom" timestamp="1642084292796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1500" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1642084292796" />
+    <state width="1500" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1642080373272" />
+    <state width="1500" height="282" key="GridCell.Tab.0.center" timestamp="1642084292796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1500" height="282" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1642084292796" />
+    <state width="1500" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1642080373272" />
+    <state width="1500" height="282" key="GridCell.Tab.0.left" timestamp="1642084292795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1500" height="282" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1642084292795" />
+    <state width="1500" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1642080373271" />
+    <state width="1500" height="282" key="GridCell.Tab.0.right" timestamp="1642084292796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1500" height="282" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1642084292796" />
+    <state width="1500" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1642080373272" />
+    <state width="1515" height="289" key="GridCell.Tab.1.bottom" timestamp="1641869195712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="289" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641869195712" />
+    <state width="1515" height="289" key="GridCell.Tab.1.center" timestamp="1641869195712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="289" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1641869195712" />
+    <state width="1515" height="289" key="GridCell.Tab.1.left" timestamp="1641869195712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="289" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1641869195712" />
+    <state width="1515" height="289" key="GridCell.Tab.1.right" timestamp="1641869195712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="289" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1641869195712" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1641220365396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1641220365396" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1641220516944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1641220516944" />
+  </component>
+</project>
